@@ -1,0 +1,15 @@
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\OOPExercice.Logic.csproj.AssemblyReference.cache
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\OOPExercice.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\OOPExercice.Logic.AssemblyInfoInputs.cache
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\OOPExercice.Logic.AssemblyInfo.cs
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\OOPExercice.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\bin\Debug\net7.0\OOPExercice.Logic.exe
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\bin\Debug\net7.0\OOPExercice.Logic.deps.json
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\bin\Debug\net7.0\OOPExercice.Logic.runtimeconfig.json
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\bin\Debug\net7.0\OOPExercice.Logic.dll
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\bin\Debug\net7.0\OOPExercice.Logic.pdb
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\OOPExercice.Logic.dll
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\refint\OOPExercice.Logic.dll
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\OOPExercice.Logic.pdb
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\OOPExercice.Logic.genruntimeconfig.cache
+C:\Users\Stivens\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Semestre 6\Estructura de Datos\Projects\OOPExercice\OOPExercice.Logic\obj\Debug\net7.0\ref\OOPExercice.Logic.dll

@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "OOPExercice.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/OOPExercice.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OOPExercice.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPExercice.Logic/1.0.0": {
+      "type": "project",
+      "path": "../OOPExercice.Logic/OOPExercice.Logic.csproj",
+      "msbuildProject": "../OOPExercice.Logic/OOPExercice.Logic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "OOPExercice.Logic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Stivens\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Stivens\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Semestre 6\\Estructura de Datos\\Projects\\OOPExercice\\OOPExercice\\OOPExercice.csproj",
+      "projectName": "OOPExercice",
+      "projectPath": "C:\\Users\\Stivens\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Semestre 6\\Estructura de Datos\\Projects\\OOPExercice\\OOPExercice\\OOPExercice.csproj",
+      "packagesPath": "C:\\Users\\Stivens\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Stivens\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Semestre 6\\Estructura de Datos\\Projects\\OOPExercice\\OOPExercice\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Stivens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Stivens\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Semestre 6\\Estructura de Datos\\Projects\\OOPExercice\\OOPExercice.Logic\\OOPExercice.Logic.csproj": {
+              "projectPath": "C:\\Users\\Stivens\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Semestre 6\\Estructura de Datos\\Projects\\OOPExercice\\OOPExercice.Logic\\OOPExercice.Logic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

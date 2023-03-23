@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OOPExercice/1.0.0": {
+        "dependencies": {
+          "OOPExercice.Logic": "1.0.0"
+        },
+        "runtime": {
+          "OOPExercice.dll": {}
+        }
+      },
+      "OOPExercice.Logic/1.0.0": {
+        "runtime": {
+          "OOPExercice.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPExercice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOPExercice.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
