@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace OOPExercice.Logic
+﻿namespace OOPExercice.Logic
 {
     public class VariablePriceProduct : Product
     {
@@ -13,10 +11,10 @@ namespace OOPExercice.Logic
         }
         public decimal Quantity
         {
-            get => _quantity; 
+            get => _quantity;
             set => _quantity = value;
         }
-        public String? UnitOfMeasure { get; set; }        
+        public String? UnitOfMeasure { get; set; }
         public override string ToString()
         {
             return $"{base.ToString()}\n\t" +
@@ -29,19 +27,19 @@ namespace OOPExercice.Logic
         }
         public override decimal CalculateDiscount()
         {
-            return ((decimal)DiscountPercentaje * PricePerUnitOfMeasure)*Quantity;
+            return ((decimal)DiscountPercentaje * PricePerUnitOfMeasure) * Quantity;
         }
         public override decimal CalculateTax()
         {
-            return ((decimal)TaxPercentaje * PricePerUnitOfMeasure)*Quantity;
+            return ((decimal)TaxPercentaje * PricePerUnitOfMeasure) * Quantity;
         }
         public override decimal CalculateValueToPay()
         {
-            return (PricePerUnitOfMeasure*Quantity)-CalculateDiscount()+CalculateTax();
+            return (PricePerUnitOfMeasure * Quantity) - CalculateDiscount() + CalculateTax();
         }
-        private float ValidateGreatherThanZero(decimal value)
+        /* private float ValidateGreatherThanZero(decimal value1)
         {
-            return (float)value;
-        }
+            return (float)value1;
+        }*/
     }
 }

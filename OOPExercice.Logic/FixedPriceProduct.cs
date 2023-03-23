@@ -6,7 +6,7 @@
         public decimal Price
         {
             get => _price;
-            set => _price = value;
+            set => _price = (decimal)ValidateGreatherThanZero((float)value);
         }
         public override string ToString()
         {
@@ -29,8 +29,12 @@
         {
             return (decimal)TaxPercentaje * Price;
         }
-        private float ValidateGreatherThanZero(decimal value)
+        private float ValidateGreatherThanZero(float value)
         {
+            if (value < 0)
+            {
+                throw new ArgumentException("The item is priceless");
+            }
             return (float)value;
         }
     }
